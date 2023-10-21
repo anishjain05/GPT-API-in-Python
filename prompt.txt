@@ -1,0 +1,18 @@
+Please provide a script for a short film with the following elements:
+
+Title: [Title of the Story]
+
+Summary: [A brief summary of the story, including the setting, genre, and central plot]
+
+Scene 1:
+
+Location: [Description of the location]
+Time of Day: [Day, night, etc.]
+Characters: [List of characters in this scene with their names and brief descriptions of their personalities or roles]
+Scene 2:
+
+Location: [Description of the location]
+Time of Day: [Day, night, etc.]
+Characters: [List of characters in this scene with their names and brief descriptions of their personalities or roles]
+[Continue with additional scenes as needed]
+
